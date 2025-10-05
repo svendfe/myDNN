@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/358204335309985958/6160de5daa054d3bb9da70902eed1a73/artifacts
+end_time: 1759695855456
+entry_point_name: ''
+experiment_id: '358204335309985958'
+lifecycle_stage: active
+run_id: 6160de5daa054d3bb9da70902eed1a73
+run_name: hyperparameter_tuning_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759695817206
+status: 3
+tags: []
+user_id: federicosvendsen

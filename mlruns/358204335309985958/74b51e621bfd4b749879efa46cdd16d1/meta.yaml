@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/358204335309985958/74b51e621bfd4b749879efa46cdd16d1/artifacts
+deleted_time: 1759680142366
+end_time: 1759680104921
+entry_point_name: ''
+experiment_id: '358204335309985958'
+lifecycle_stage: deleted
+run_id: 74b51e621bfd4b749879efa46cdd16d1
+run_name: relu_dropout_0.3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759680073715
+status: 3
+tags: []
+user_id: federicosvendsen
