@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/358204335309985958/acf0ab5055cd447ab0f50b802e177631/artifacts
+end_time: 1759698828765
+entry_point_name: ''
+experiment_id: '358204335309985958'
+lifecycle_stage: active
+run_id: acf0ab5055cd447ab0f50b802e177631
+run_name: relu_tahn_x2. 0.3 dropout
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759698816340
+status: 3
+tags: []
+user_id: federicosvendsen
