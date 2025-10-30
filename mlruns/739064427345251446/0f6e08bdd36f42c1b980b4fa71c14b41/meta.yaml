@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/0f6e08bdd36f42c1b980b4fa71c14b41/artifacts
+end_time: 1761823190629
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 0f6e08bdd36f42c1b980b4fa71c14b41
+run_name: R-7. Let´s try gelu
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761823110547
+status: 3
+tags: []
+user_id: federicosvendsen

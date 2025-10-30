@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/b8144ccee1f34286bea037be3108fd1a/artifacts
+end_time: 1761822078717
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: b8144ccee1f34286bea037be3108fd1a
+run_name: R-2. More neurons
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761822059058
+status: 3
+tags: []
+user_id: federicosvendsen

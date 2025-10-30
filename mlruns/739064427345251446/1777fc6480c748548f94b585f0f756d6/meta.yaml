@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/1777fc6480c748548f94b585f0f756d6/artifacts
+end_time: 1761823369548
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 1777fc6480c748548f94b585f0f756d6
+run_name: R-8. Increase batch size
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761823326976
+status: 3
+tags: []
+user_id: federicosvendsen

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/37576a885df644659f76f957f3c20b6f/artifacts
+end_time: 1761824278456
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 37576a885df644659f76f957f3c20b6f
+run_name: R-12. Increase first layer see what happens?
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761824226528
+status: 3
+tags: []
+user_id: federicosvendsen

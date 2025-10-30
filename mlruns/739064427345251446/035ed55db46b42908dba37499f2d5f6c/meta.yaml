@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/035ed55db46b42908dba37499f2d5f6c/artifacts
+end_time: 1761822872598
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 035ed55db46b42908dba37499f2d5f6c
+run_name: R-5. Reduce variance
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761822800814
+status: 3
+tags: []
+user_id: federicosvendsen

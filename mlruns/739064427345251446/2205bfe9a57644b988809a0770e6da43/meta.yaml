@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/2205bfe9a57644b988809a0770e6da43/artifacts
+end_time: 1761822017795
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 2205bfe9a57644b988809a0770e6da43
+run_name: R-1. Initialization
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761821993160
+status: 3
+tags: []
+user_id: federicosvendsen

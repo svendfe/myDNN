@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/6edbc140204b42568a01e54968d46e52/artifacts
+end_time: 1761824394433
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 6edbc140204b42568a01e54968d46e52
+run_name: R-12. Very good but cocodrile still messing things up
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761824338631
+status: 3
+tags: []
+user_id: federicosvendsen

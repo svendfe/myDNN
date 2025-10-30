@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/b2c1f71f1a20454fb55191c04dbf77d3/artifacts
+end_time: 1761824613667
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: b2c1f71f1a20454fb55191c04dbf77d3
+run_name: R-13. Normalization + early stop
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761824564645
+status: 3
+tags: []
+user_id: federicosvendsen

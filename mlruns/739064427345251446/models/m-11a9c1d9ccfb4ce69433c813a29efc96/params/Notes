@@ -1,0 +1,1 @@
+First run, Always 22 layer input and 4 output, small dense layer (60), we will choose loss function CategoricalCrossentropy because it works best with one-hot-encoded softmax

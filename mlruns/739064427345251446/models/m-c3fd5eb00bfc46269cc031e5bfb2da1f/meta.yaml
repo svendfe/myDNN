@@ -1,0 +1,10 @@
+artifact_location: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/models/m-c3fd5eb00bfc46269cc031e5bfb2da1f/artifacts
+creation_timestamp: 1761822069024
+experiment_id: '739064427345251446'
+last_updated_timestamp: 1761822078715
+model_id: m-c3fd5eb00bfc46269cc031e5bfb2da1f
+model_type: null
+name: keras_model
+source_run_id: b8144ccee1f34286bea037be3108fd1a
+status: 2
+status_message: null
